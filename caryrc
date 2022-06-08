@@ -1,0 +1,20 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fd6%2F6f%2F0f%2Fd66f0f6bf8f7615de49dce57a908b6b8.png&f=1&nofb=1",CARACOL
+
+https://www.caracoltv.com/senal-vivo
+
+
+
+#EXTM3U
+
+
+#EXTINF:-1 ,RCN
+
+http://199.180.114.174:84/crcn.m3u8
+
+#EXTM3U
+
+#EXTINF:-1,RCN 02
+http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
